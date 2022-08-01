@@ -65,3 +65,5 @@ F:\Vezbanje codeZ\c sharp\New Stuff\KCalApp\WebApplication1\WebApplication1\obj\
 F:\Vezbanje codeZ\c sharp\New Stuff\KCalApp\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
 F:\Vezbanje codeZ\c sharp\New Stuff\KCalApp\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
 F:\Vezbanje codeZ\c sharp\New Stuff\KCalApp\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Vezbanje codeZ\c sharp\New Stuff\KCalApp\WebApplication1\WebApplication1\bin\Debug\net6.0\MySqlConnector.dll
+F:\Vezbanje codeZ\c sharp\New Stuff\KCalApp\WebApplication1\WebApplication1\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll

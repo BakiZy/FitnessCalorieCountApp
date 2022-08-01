@@ -1,15 +1,25 @@
-﻿namespace WebApplication1.Models
+﻿
+
+namespace WebApplication1.Models
+    
+    
 {
     public class AppDbContext : IdentityDbContext<ApplicationUser>
     {
+      
         public AppDbContext(DbContextOptions<AppDbContext> options)
             : base(options)
         {
+           
         }
+
+     
+        
         public DbSet<Food>? Foods { get; set; }
         public DbSet<Meal>? Meals { get; set; }
         public DbSet<FoodType>? FoodTypes { get; set; }
-
+        
+      
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.Entity<FoodType>().HasMany(t => t.Foods).WithOne(f => f.FoodType);
@@ -110,7 +120,7 @@
 
            
             builder.Entity<Food>().HasMany(m => m.Meals).WithMany(f => f.Foods);
-            
+
             builder.Entity<Food>().HasData(new Food()
             {
                 Id = 1,
@@ -121,7 +131,7 @@
                 Proteins = 7,
                 Kcals = 700,
                 FoodTypeId = 16,
-               
+
             },
             new Food()
             {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3pZLv4XSQSRyethoovkOtwH5JXBm4o2yeny6O5kcPDYAzozMuHhx6fqDDyD5BEmDSPu8gTp8kXCS5HlV8DMLjw==",
+  "dgSpecHash": "RZtw9teuYYS/PgZeKICUHExlCrqp1rVQbVejtLKerkPgcnWbNZ/y1Z8tSF5kfHKVgS6BFcUW9vxaZRschnzgag==",
   "success": true,
-  "projectFilePath": "F:\\Vezbanje codeZ\\c sharp\\New Stuff\\KCalApp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "F:\\Vezbanje codeZ\\c sharp\\New Stuff\\KCalApp\\WebApplication1\\webapplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\milos\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\milos\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
@@ -60,6 +60,8 @@
     "C:\\Users\\milos\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\milos\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\milos\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\milos\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
+    "C:\\Users\\milos\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.2\\pomelo.entityframeworkcore.mysql.6.0.2.nupkg.sha512",
     "C:\\Users\\milos\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\milos\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\milos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

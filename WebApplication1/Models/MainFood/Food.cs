@@ -33,7 +33,7 @@ namespace WebApplication1.Models.MainFood
             }
         }
        
-
+        
         public double Amount { get; set; }
         
         public int FoodTypeId { get; set; }
